@@ -1,0 +1,30 @@
+Mkhanyisi Gamedze 
+CS333 Project 2
+22 October 2017
+
+Compiler used: terminal 
+macOS Sierra version 10.12.6
+
+Part I: Polymorphism in C
+
+# task 1
+
+Succesfully created a doubly linked list in C that can perfom all the functionalities for a 
+linked list. My test file worked properly. Major Obstacles personally on this part of the project
+ were actually constructing my linkedlist keeping in mind the functionality for pointers in C,
+ something I clearly do not understand very well. After completing this project, my confidence with
+ understand those functionalities grew, as implementing a linkedlist in C is very different from 
+ how I did it in Java, mainly due to memory allocation differences. 
+ ->The test file outputs are in my "Int llist output 1&2" images
+ 
+ 
+ I extended the testfile to also work for char types and for that I added new operator functions
+ very similar to the previos Int operator function but for Char types. 
+  ->The test file outputs are in my "Char llist output 1&2" images
+  
+  
+Extensions  
+ 
+
+
+

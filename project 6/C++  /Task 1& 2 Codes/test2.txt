@@ -1,0 +1,6 @@
+TEST 2 : reading from text file
+
+Does your language have built-in support for I/O
+is it part of a set of standard libraries?
+Does your language support different types of files?
+Can the user input information into the program interactively?

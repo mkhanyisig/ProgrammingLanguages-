@@ -1,0 +1,10 @@
+int main() {
+  /*    hey there mkhanyisi, this is a comment */
+  int a = 6;
+  int b = 5.0;
+
+  if( a < b ) {
+    a = a + b;
+  }
+
+}

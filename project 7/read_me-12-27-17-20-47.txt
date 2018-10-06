@@ -1,0 +1,30 @@
+Mkhanyisi Gamedze 
+CS333 Project 7
+24 December 2017
+
+Compiler used: terminal 
+macOS Sierra version 10.12.6
+
+*****Part I: Memory Management in C
+
+What is the average time per call to allocate a certain amount of memory?
+> to achieve this, my code solution allocated char memory using malloc, as each char is 1 byte size
+in size.This was repeated for 1000 memory allocations of the same size. I timed my calls for three 
+different memory sizes (small, medium & large) , which were allocated more than a thousand times each 
+and the averages were found. The resulting screenshot from running the program memory.c illustrates 
+the different memory time stamps which resulted. The last call times a random memory size allocation  
+which varies with time.   
+->see image mem_pic1
+
+
+*****Part II
+
+
+
+
+
+*****Extenstions
+The only extension I undertook was doing memory management for Javascript
+
+
+

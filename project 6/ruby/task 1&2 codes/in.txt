@@ -1,0 +1,3 @@
+This is the first line written using Syswrite                            Additional words inserted by different method
+This is another line
+This is another one as well
